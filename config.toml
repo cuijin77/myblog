@@ -1,0 +1,4 @@
+baseURL = "https://cuijin.github.io"
+title = "cj"
+theme = "freelancer"
+defaultContentLanguage = "zh"

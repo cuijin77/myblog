@@ -1,0 +1,13 @@
+[zh]
+title = "cuijin"
+languageName = "中文"
+languageDir = "ltr"
+contentDir = "content/zh"
+weight = 1
+
+[en]
+title = "cuijin"
+languageName = "English"
+languageDir = "ltr"
+contentDir = "content/en"
+weight = 2
